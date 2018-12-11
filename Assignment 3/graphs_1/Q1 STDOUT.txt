@@ -1,0 +1,116 @@
+(py35) C:\Study\FSL\HW#3>python twoLayerBinary_starter.py
+Cost at iteration 0 is: 0.693653
+Cost at iteration 100 is: 0.275600
+Cost at iteration 200 is: 0.088642
+Cost at iteration 300 is: 0.061187
+Cost at iteration 400 is: 0.050138
+Cost at iteration 500 is: 0.043687
+Cost at iteration 600 is: 0.039153
+Cost at iteration 700 is: 0.035616
+Cost at iteration 800 is: 0.032684
+Cost at iteration 900 is: 0.030166
+Cost at iteration 1000 is: 0.027956
+
+Accuracy after 1001 epochs with n_h= 200 learning_rate= 0.1
+Training: 99.150% Validation: 99.500% Testing: 98.000%
+Test Error aka Misclassification %: 2.000%
+
+
+###
+Hidden Layer Size:  100
+Cost at iteration 0 is: 0.695888
+Cost at iteration 100 is: 0.350605
+Cost at iteration 200 is: 0.096393
+Cost at iteration 300 is: 0.063650
+Cost at iteration 400 is: 0.051405
+Cost at iteration 500 is: 0.044523
+Cost at iteration 600 is: 0.039794
+Cost at iteration 700 is: 0.036154
+Cost at iteration 800 is: 0.033158
+Cost at iteration 900 is: 0.030593
+Cost at iteration 1000 is: 0.028344
+
+Accuracy after 1001 epochs with n_h= 100 learning_rate= 0.1
+Training: 99.150% Validation: 99.500% Testing: 97.900%
+###
+
+
+###
+Hidden Layer Size:  200
+Cost at iteration 0 is: 0.693653
+Cost at iteration 100 is: 0.275600
+Cost at iteration 200 is: 0.088642
+Cost at iteration 300 is: 0.061187
+Cost at iteration 400 is: 0.050138
+Cost at iteration 500 is: 0.043687
+Cost at iteration 600 is: 0.039153
+Cost at iteration 700 is: 0.035616
+Cost at iteration 800 is: 0.032684
+Cost at iteration 900 is: 0.030166
+Cost at iteration 1000 is: 0.027956
+
+Accuracy after 1001 epochs with n_h= 200 learning_rate= 0.1
+Training: 99.150% Validation: 99.500% Testing: 98.000%
+###
+
+
+###
+Hidden Layer Size:  300
+Cost at iteration 0 is: 0.699328
+Cost at iteration 100 is: 0.220182
+Cost at iteration 200 is: 0.082752
+Cost at iteration 300 is: 0.059041
+Cost at iteration 400 is: 0.048892
+Cost at iteration 500 is: 0.042779
+Cost at iteration 600 is: 0.038405
+Cost at iteration 700 is: 0.034960
+Cost at iteration 800 is: 0.032090
+Cost at iteration 900 is: 0.029620
+Cost at iteration 1000 is: 0.027453
+
+Accuracy after 1001 epochs with n_h= 300 learning_rate= 0.1
+Training: 99.200% Validation: 99.500% Testing: 98.000%
+###
+
+
+###
+Hidden Layer Size:  400
+Cost at iteration 0 is: 0.694399
+Cost at iteration 100 is: 0.199059
+Cost at iteration 200 is: 0.080824
+Cost at iteration 300 is: 0.058557
+Cost at iteration 400 is: 0.048726
+Cost at iteration 500 is: 0.042716
+Cost at iteration 600 is: 0.038381
+Cost at iteration 700 is: 0.034951
+Cost at iteration 800 is: 0.032088
+Cost at iteration 900 is: 0.029620
+Cost at iteration 1000 is: 0.027455
+
+Accuracy after 1001 epochs with n_h= 400 learning_rate= 0.1
+Training: 99.200% Validation: 99.500% Testing: 98.000%
+###
+
+
+###
+Hidden Layer Size:  500
+Cost at iteration 0 is: 0.696530
+Cost at iteration 100 is: 0.176304
+Cost at iteration 200 is: 0.078300
+Cost at iteration 300 is: 0.057670
+Cost at iteration 400 is: 0.048238
+Cost at iteration 500 is: 0.042380
+Cost at iteration 600 is: 0.038121
+Cost at iteration 700 is: 0.034739
+Cost at iteration 800 is: 0.031909
+Cost at iteration 900 is: 0.029468
+Cost at iteration 1000 is: 0.027326
+
+Accuracy after 1001 epochs with n_h= 500 learning_rate= 0.1
+Training: 99.200% Validation: 99.500% Testing: 98.000%
+###
+
+
+Minimum validation error found when n_h=400, Test Error during that run =2.0000000000000018%
+
+(py35) C:\Study\FSL\HW#3>
