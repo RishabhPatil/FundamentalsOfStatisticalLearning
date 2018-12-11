@@ -1,0 +1,242 @@
+(py35) C:\Study\FSL\HW#4>python Main.py
+Run number 1
+Initial Loss: 6.149395461653642
+Iteration: 1 Loss: 2.0721317055514974
+Iteration: 2 Loss: 1.8064871371693716
+Iteration: 3 Loss: 1.7687093904091649
+Iteration: 4 Loss: 1.7627318666135867
+Iteration: 5 Loss: 1.76228407266256
+Iteration: 6 Loss: 1.762279372989947
+Iteration: 7 Loss: 1.762279372989947
+
+Run number 2
+Initial Loss: 23.617827599453243
+Iteration: 1 Loss: 3.487044848103908
+Iteration: 2 Loss: 2.4109174105718507
+Iteration: 3 Loss: 1.8311275346829246
+Iteration: 4 Loss: 1.7697938771218507
+Iteration: 5 Loss: 1.762822675839185
+Iteration: 6 Loss: 1.76228407266256
+Iteration: 7 Loss: 1.762279372989947
+Iteration: 8 Loss: 1.762279372989947
+
+Run number 3
+Initial Loss: 6.8215590051369235
+Iteration: 1 Loss: 3.1617091225732383
+Iteration: 2 Loss: 2.2378126681284694
+Iteration: 3 Loss: 1.8571291198823827
+Iteration: 4 Loss: 1.777346445160174
+Iteration: 5 Loss: 1.7643949623320356
+Iteration: 6 Loss: 1.7625313929894195
+Iteration: 7 Loss: 1.762279372989947
+Iteration: 8 Loss: 1.762279372989947
+
+Run number 4
+Initial Loss: 7.755620532759806
+Iteration: 1 Loss: 1.7860119885784094
+Iteration: 2 Loss: 1.7657855911242786
+Iteration: 3 Loss: 1.762654260766962
+Iteration: 4 Loss: 1.76228407266256
+Iteration: 5 Loss: 1.762279372989947
+Iteration: 6 Loss: 1.762279372989947
+
+Run number 5
+Initial Loss: 6.139864314660283
+Iteration: 1 Loss: 2.22974115920475
+Iteration: 2 Loss: 1.8221534009714173
+Iteration: 3 Loss: 1.7701258577791248
+Iteration: 4 Loss: 1.762920292509134
+Iteration: 5 Loss: 1.76228407266256
+Iteration: 6 Loss: 1.762279372989947
+Iteration: 7 Loss: 1.762279372989947
+
+Lowest SSE during Run 0 SSE= 1.762279372989947
+Initial Avg. Negative LogLoss: 4.412987033259423
+Iteration 1 Avg. Negative LogLoss: 3.4140085056099583
+Iteration 2 Avg. Negative LogLoss: 3.4128785249099325
+Iteration 3 Avg. Negative LogLoss: 3.412367377245745
+Iteration 4 Avg. Negative LogLoss: 3.4120451989599148
+Iteration 5 Avg. Negative LogLoss: 3.4118257457332613
+Iteration 6 Avg. Negative LogLoss: 3.411670059562728
+Iteration 7 Avg. Negative LogLoss: 3.411556261600129
+Iteration 8 Avg. Negative LogLoss: 3.411471064244522
+Iteration 9 Avg. Negative LogLoss: 3.411406002249176
+Iteration 10 Avg. Negative LogLoss: 3.4113554802791306
+Iteration 11 Avg. Negative LogLoss: 3.411315685652257
+Iteration 12 Avg. Negative LogLoss: 3.411283952391526
+Iteration 13 Avg. Negative LogLoss: 3.411258374368609
+Iteration 14 Avg. Negative LogLoss: 3.411237562041998
+Iteration 15 Avg. Negative LogLoss: 3.411220485041266
+Iteration 16 Avg. Negative LogLoss: 3.411206367711287
+Iteration 17 Avg. Negative LogLoss: 3.4111946182409225
+Iteration 18 Avg. Negative LogLoss: 3.4111847796159465
+Initial Avg. LogLoss: 3.4369280539109686
+Iteration 1 Avg. LogLoss: 3.342207857331883
+Iteration 2 Avg. LogLoss: 3.3413319831904587
+Iteration 3 Avg. LogLoss: 3.3410802323304813
+Iteration 4 Avg. LogLoss: 3.3409399983484165
+Iteration 5 Avg. LogLoss: 3.340833678586732
+Iteration 6 Avg. LogLoss: 3.34074600117633
+Iteration 7 Avg. LogLoss: 3.3406723932903355
+Iteration 8 Avg. LogLoss: 3.3406104242977026
+Iteration 9 Avg. LogLoss: 3.340558270287644
+Iteration 10 Avg. LogLoss: 3.3405144130725755
+Iteration 11 Avg. LogLoss: 3.3404775626179926
+Iteration 12 Avg. LogLoss: 3.340446621146383
+Iteration 13 Avg. LogLoss: 3.340420656435039
+Iteration 14 Avg. LogLoss: 3.3403988787316425
+Iteration 15 Avg. LogLoss: 3.34038062037443
+Iteration 16 Avg. LogLoss: 3.340365317900657
+Iteration 17 Avg. LogLoss: 3.340352496472066
+Iteration 18 Avg. LogLoss: 3.3403417564161284
+Iteration 19 Avg. LogLoss: 3.3403327616638068
+Run number 1
+Initial Loss: 8.63922161171401
+Iteration: 1 Loss: 1.9285682414555259
+Iteration: 2 Loss: 1.5869007535065385
+Iteration: 3 Loss: 1.3993281400020456
+Iteration: 4 Loss: 1.3248316684879886
+Iteration: 5 Loss: 1.2815265918219594
+Iteration: 6 Loss: 1.2555153797768144
+Iteration: 7 Loss: 1.2394288169725487
+Iteration: 8 Loss: 1.230873522261039
+Iteration: 9 Loss: 1.2263370194103387
+Iteration: 10 Loss: 1.2225496972236425
+Iteration: 11 Loss: 1.2184595904394324
+Iteration: 12 Loss: 1.214157223936482
+Iteration: 13 Loss: 1.2096673059136678
+Iteration: 14 Loss: 1.2036669580634898
+Iteration: 15 Loss: 1.1963135029145597
+Iteration: 16 Loss: 1.187525998780205
+Iteration: 17 Loss: 1.1818936409945817
+Iteration: 18 Loss: 1.1799107384317646
+Iteration: 19 Loss: 1.179060445346352
+Iteration: 20 Loss: 1.1788321315374277
+Iteration: 21 Loss: 1.1787945112337561
+Iteration: 22 Loss: 1.178787509229388
+Iteration: 23 Loss: 1.1787822415939757
+Iteration: 24 Loss: 1.1787822415939757
+
+Run number 2
+Initial Loss: 2.527953379671979
+Iteration: 1 Loss: 1.7021347686228419
+Iteration: 2 Loss: 1.5678771457658567
+Iteration: 3 Loss: 1.4541229579999042
+Iteration: 4 Loss: 1.2894270457504857
+Iteration: 5 Loss: 1.2336896407675984
+Iteration: 6 Loss: 1.2137636679373685
+Iteration: 7 Loss: 1.1824956250431118
+Iteration: 8 Loss: 1.137329932854662
+Iteration: 9 Loss: 1.0881673143202835
+Iteration: 10 Loss: 1.0465763111877642
+Iteration: 11 Loss: 1.0290860123134355
+Iteration: 12 Loss: 1.026462872894283
+Iteration: 13 Loss: 1.0262223640447337
+Iteration: 14 Loss: 1.0261882553054174
+Iteration: 15 Loss: 1.0261849230725573
+Iteration: 16 Loss: 1.0261849230725573
+
+Run number 3
+Initial Loss: 10.106897342616406
+Iteration: 1 Loss: 1.8263227345669477
+Iteration: 2 Loss: 1.4965140749202932
+Iteration: 3 Loss: 1.3254556943506222
+Iteration: 4 Loss: 1.2460012436987964
+Iteration: 5 Loss: 1.1991220685774067
+Iteration: 6 Loss: 1.1829820524119694
+Iteration: 7 Loss: 1.180137727535288
+Iteration: 8 Loss: 1.17932708486342
+Iteration: 9 Loss: 1.1791094131278355
+Iteration: 10 Loss: 1.178985067048651
+Iteration: 11 Loss: 1.1788915841918688
+Iteration: 12 Loss: 1.1787907694255653
+Iteration: 13 Loss: 1.1787855448125326
+Iteration: 14 Loss: 1.1787822415939757
+Iteration: 15 Loss: 1.1787822415939757
+
+Run number 4
+Initial Loss: 3.2787932148874535
+Iteration: 1 Loss: 1.0935044726796959
+Iteration: 2 Loss: 1.0377458640663542
+Iteration: 3 Loss: 1.029789998814918
+Iteration: 4 Loss: 1.0274758574022544
+Iteration: 5 Loss: 1.0268312973247045
+Iteration: 6 Loss: 1.0264161373127374
+Iteration: 7 Loss: 1.0261985239144165
+Iteration: 8 Loss: 1.0261778543425748
+Iteration: 9 Loss: 1.0261745127196495
+Iteration: 10 Loss: 1.0261745127196495
+
+Run number 5
+Initial Loss: 9.811964675361022
+Iteration: 1 Loss: 1.2697046885747456
+Iteration: 2 Loss: 1.239848634686301
+Iteration: 3 Loss: 1.232828784594406
+Iteration: 4 Loss: 1.2300601348208189
+Iteration: 5 Loss: 1.2276012718481364
+Iteration: 6 Loss: 1.2242149174878232
+Iteration: 7 Loss: 1.2209943847989626
+Iteration: 8 Loss: 1.2172460908989493
+Iteration: 9 Loss: 1.213121813635338
+Iteration: 10 Loss: 1.2090175235860223
+Iteration: 11 Loss: 1.2032041427881561
+Iteration: 12 Loss: 1.1958169993781818
+Iteration: 13 Loss: 1.187186289324412
+Iteration: 14 Loss: 1.1818873355318293
+Iteration: 15 Loss: 1.1798792851098463
+Iteration: 16 Loss: 1.1790383903590813
+Iteration: 17 Loss: 1.1788282026265893
+Iteration: 18 Loss: 1.1788001658816565
+Iteration: 19 Loss: 1.178787509229388
+Iteration: 20 Loss: 1.1787822415939757
+Iteration: 21 Loss: 1.1787822415939757
+
+Lowest SSE during Run 3 SSE= 1.0261745127196495
+Initial Avg. LogLoss: 5.59885870459913
+Iteration 1 Avg. LogLoss: 3.0809834831423517
+Iteration 2 Avg. LogLoss: 3.0525439149456948
+Iteration 3 Avg. LogLoss: 3.0268957663827902
+Iteration 4 Avg. LogLoss: 3.0058920684385244
+Iteration 5 Avg. LogLoss: 2.983810978303416
+Iteration 6 Avg. LogLoss: 2.9556885456063045
+Iteration 7 Avg. LogLoss: 2.9195821351155344
+Iteration 8 Avg. LogLoss: 2.8790717990460664
+Iteration 9 Avg. LogLoss: 2.8343904576377765
+Iteration 10 Avg. LogLoss: 2.7827948656910935
+Iteration 11 Avg. LogLoss: 2.7452806580196
+Iteration 12 Avg. LogLoss: 2.720898589404379
+Iteration 13 Avg. LogLoss: 2.695033064609629
+Iteration 14 Avg. LogLoss: 2.6692462383140336
+Iteration 15 Avg. LogLoss: 2.6482511324119713
+Iteration 16 Avg. LogLoss: 2.6340000253779334
+Iteration 17 Avg. LogLoss: 2.6258607316806066
+Iteration 18 Avg. LogLoss: 2.6217853698589138
+Iteration 19 Avg. LogLoss: 2.6198737732795094
+Iteration 20 Avg. LogLoss: 2.618995491665431
+Iteration 21 Avg. LogLoss: 2.618592383539192
+Iteration 22 Avg. LogLoss: 2.618406309418354
+Iteration 23 Avg. LogLoss: 2.618319805095005
+Iteration 24 Avg. LogLoss: 2.6182793172446135
+Iteration 25 Avg. LogLoss: 2.618260252477575
+Iteration 26 Avg. LogLoss: 2.6182512271135074
+Initial Avg. LogLoss: 2.8774427143539785
+Iteration 1 Avg. LogLoss: 2.786366890819565
+Iteration 2 Avg. LogLoss: 2.7633172415679232
+Iteration 3 Avg. LogLoss: 2.746259415854564
+Iteration 4 Avg. LogLoss: 2.728443307949033
+Iteration 5 Avg. LogLoss: 2.7050733550242136
+Iteration 6 Avg. LogLoss: 2.677907081253129
+Iteration 7 Avg. LogLoss: 2.654279227781918
+Iteration 8 Avg. LogLoss: 2.637892561180296
+Iteration 9 Avg. LogLoss: 2.6280916516831505
+Iteration 10 Avg. LogLoss: 2.6228931618867493
+Iteration 11 Avg. LogLoss: 2.6203723779869
+Iteration 12 Avg. LogLoss: 2.6192069127876016
+Iteration 13 Avg. LogLoss: 2.6186780889889407
+Iteration 14 Avg. LogLoss: 2.6184394838941607
+Iteration 15 Avg. LogLoss: 2.618331880356398
+Iteration 16 Avg. LogLoss: 2.618283288427077
+Iteration 17 Avg. LogLoss: 2.6182613005688706
+Iteration 18 Avg. LogLoss: 2.6182513281969673
+
+(py35) C:\Study\FSL\HW#4>
